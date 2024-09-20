@@ -1,6 +1,6 @@
 ## 🛠 Skills
 
-HTML and CSS
+HTML, CSS and Responsive Design
 
 ## 🚀 About Me
 
